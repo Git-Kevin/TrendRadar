@@ -43,7 +43,8 @@ Deploy in <strong>30 seconds</strong> — Say goodbye to endless scrolling, only
 
 </div>
 
-> This project is designed to be lightweight and easy to deploy
+> This project is designed to be lightweight and easy to deploy 
+forked from https://github.com/sansan0/TrendRadar/tree/master
 
 <br>
 
